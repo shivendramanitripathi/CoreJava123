@@ -1,4 +1,4 @@
-package corejava12;
+package com.corejava.oops.classes;
 
 public class TextClass {
     public static void main(String[] args) {

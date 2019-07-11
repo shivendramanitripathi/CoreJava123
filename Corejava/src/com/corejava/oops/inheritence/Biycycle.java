@@ -1,4 +1,4 @@
-package inheritence;
+package com.corejava.oops.inheritence;
 
 public class Biycycle {
     private int speed;

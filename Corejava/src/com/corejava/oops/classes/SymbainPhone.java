@@ -1,4 +1,4 @@
-package corejava12;
+package com.corejava.oops.classes;
 
 public class SymbainPhone {
 

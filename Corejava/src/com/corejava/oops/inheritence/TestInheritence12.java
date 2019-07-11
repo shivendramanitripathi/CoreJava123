@@ -1,4 +1,4 @@
-package inheritence;
+package com.corejava.oops.inheritence;
 
 public class TestInheritence12 {
     public static void main (String[]args) {

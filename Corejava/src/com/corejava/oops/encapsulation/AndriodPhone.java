@@ -1,4 +1,4 @@
-package encapsulation;
+package com.corejava.oops.encapsulation;
 
 public class AndriodPhone {
 
