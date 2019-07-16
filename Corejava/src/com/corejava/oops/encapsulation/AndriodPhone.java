@@ -12,39 +12,48 @@ public class AndriodPhone {
         return width;
     }
 
-    public void setWidth(float width) {
+    public void setWidth(float width)
+    {
         this.width = width;
     }
 
-    public float getHeight() {
+    public float getHeight()
+    {
         return height;
     }
 
-    public void setHeight(float height) {
+    public void setHeight(float height)
+    {
         this.height = height;
     }
 
-    public String getOS() {
+    public String getOS()
+    {
         return OS;
     }
 
-    public void setOS(String OS) {
+    public void setOS(String OS)
+    {
         this.OS = OS;
     }
 
-    public String getBrand() {
+    public String getBrand()
+    {
         return brand;
     }
 
-    public void setBrand(String brand) {
+    public void setBrand(String brand)
+    {
         this.brand = brand;
     }
 
-    public float getPrice() {
+    public float getPrice()
+    {
         return price;
     }
 
-    public void setPrice(float price) {
+    public void setPrice(float price)
+    {
         this.price = price;
     }
 
