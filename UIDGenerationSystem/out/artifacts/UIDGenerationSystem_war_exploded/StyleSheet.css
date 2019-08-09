@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+
+body{
+	background-color: blue;
+	color : lime;
+	font-family: fantasy;
+}
+
+h1{
+	font-size: 5;
+	color: gray;
+}
+
+ahref{
+	font-family: cursive;
+	color: maroon;
+}
